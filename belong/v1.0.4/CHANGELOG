@@ -1,0 +1,4 @@
++  Event log capabilities (WHMCS)
++  User level plugin to check permissions at user log in and update (Joomla)
+#  Cron task not passing info properly to update user permissions (WHMCS)
+#  vBulletin plugin adding empty group and preventing admin updates (plg_belong_vbulletin)
