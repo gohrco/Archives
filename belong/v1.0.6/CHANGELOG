@@ -1,0 +1,5 @@
++  Mailchimp newsletter demographic assignment capabilities (plg_belong_mailchimp)
+#  Redundant database calls removed (Joomla)
+#  Redundant database calls removed (plg_belong_vbulletin)
+#  Recursion added to API calls from WHMCS side when encountering an error first time (WHMCS)
+~  Cron job broken out to 200 records per curl request to prevent timeout
