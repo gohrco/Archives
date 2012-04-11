@@ -11,3 +11,8 @@
 +  getUpdateSite event added to User plugin
 +  getUpdateSite event added to vBulletin plugin
 +  getUpdateSite event added to WHMCS plugin
+#  Fusion xml manifest not using upgrade method (plg_belong_fusion)
+#  Mailchimp xml manifest not using upgrade method (plg_belong_mailchimp)
+#  User xml manifest not using upgrade method (plg_belong_user)
+#  vBulletin xml manifest not using upgrade method (plg_belong_vbulletin)
+#  WHMCS xml manifest not using upgrade method (plg_belong_whmcs)
