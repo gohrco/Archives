@@ -1,0 +1,13 @@
++  WHMCS:  Remote update feature included in api file for one-click updates
++  Ajax call in admin backend for checking for updates for one-click updates
++  Ajax enabled one-click button added to default view
++  Ajax javascript call added for checking on updates
+~  Various images added for updates view and one-click button view
++  Updates controller, model and view created
++  API Wrapper: get_info and update calls added
++  Update classes added for performing one-click updates from within Belong
++  getUpdateSite event added to Mailchimp plugin
++  getUpdateSite event added to Fusion plugin
++  getUpdateSite event added to User plugin
++  getUpdateSite event added to vBulletin plugin
++  getUpdateSite event added to WHMCS plugin
