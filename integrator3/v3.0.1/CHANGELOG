@@ -1,1 +1,21 @@
 #  RESOLVED - bug 66: I3 Pushes To A Login Page on Clicking Checkout https://www.gohigheris.com/issues/show_bug.cgi?id=66
+#  RESOLVED - bug 72: False Version shows https://www.gohigheris.com/issues/show_bug.cgi?id=72
+#  RESOLVED - bug 73: Button on Google Chrome not visible https://www.gohigheris.com/issues/show_bug.cgi?id=73
+~  Next minor release added to SQL installation
+#  RESOLVED - bug 74: incorrect file permission checking https://www.gohigheris.com/issues/show_bug.cgi?id=74
+~  Fusion API library wasnt checking for credentials passed via api cnxn
++  API user_authenticate:  authenticates a remote user against known connections
+#  Wordpress not redirecting to proper URL at login / logout (missing index.php)
+~  variable debug left in api
+#  Fusion API cnxn not gathering user / pass properly to pass along for authentication check
++  Joomla Cnxn:  Authentication Plugin
++  Joomla Cnxn API:  Routine for calling I3 authentication check
+#  Infinite redirects occur when not using htaccess and trying to install / upgrade
+~  htaccess.txt file included in I3 app
++  Fusion Cnxn API:  GetInfo added to retrieve version info for updating
++  Joomla Cnxn API:  get_info() added to retrieve version info for updating
++  WHMCS Cnxn API:  get_version() added to retrieve version info for updating
++  WP Cnxn API:  getinfo XMLRPC method added to retrieve version info for updating
++  I3 App:  Update library to check for updates from Go Higher and compare to existing sites
++  I3 App:  Help / Systemstatus checks cnxn statuses and returns via ajax
++  I3 App:  Ajax controller to handle ajax calls from admin backend
