@@ -1,0 +1,8 @@
++  Merged Joomla! 1.5 and Joomla! 2.5 versions into single functional working version
+#  Corrected contact info not being pulled to login module
+#  Remote Update Feature within Joomla! side for component, module, plugins and whmcs files
+!  Moved WHMCS files to within Modules directory for consistancy with current WHMCS framework
+!  Languages are now called using API rather than remote directory inclusion through FTP or local path
++  WHMCS v5.1 template file modifications
++  Visual rendering checks smarty object for livehelp javascript and adds it if found to the header
+#  Joomla! 2.5 / 1.5 discrepancy in template rendering for class tags of links corrected
