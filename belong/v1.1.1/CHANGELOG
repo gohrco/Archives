@@ -1,0 +1,10 @@
+#  Fusion xml manifest not using upgrade method (plg_belong_fusion)
+#  Mailchimp xml manifest not using upgrade method (plg_belong_mailchimp)
+#  User xml manifest not using upgrade method (plg_belong_user)
+#  vBulletin xml manifest not using upgrade method (plg_belong_vbulletin)
+#  WHMCS xml manifest not using upgrade method (plg_belong_whmcs)
+#  Fusion Plugin:  Invalid type displayed when assembling user arrays
+#  Fusion Plugin: Add / Drop messages not displaying
+~  CURL class was hard coding WHMCS API path
+~  API class wasn't specifying the WHMCS API path but relying on CURL class
+#  RESOLVED - bug 81: PUT Requests Fail https://www.gohigheris.com/issues/show_bug.cgi?id=81
