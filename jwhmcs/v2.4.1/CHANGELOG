@@ -1,0 +1,10 @@
+~  Parsing of the base href doesnt work if HTML tag is missing closing slash ( <base ... />)
+#  Check for WHMCS password fails
+#  System Check has check marks across all tabs (due to css style conflict)
+#  WHMCS header missing when rendered due to livehelpjs logic error
+#  Installing plugins without component causes fatal errors
+-  System Check no longer needs to check for hook files and template files
+#  Plugins report new updates available incorrectly
+~  WHMCS root README update
+#  images directory missing from WHMCS archive
+~  gpl license included in archive build
