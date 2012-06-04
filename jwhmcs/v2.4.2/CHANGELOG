@@ -1,0 +1,7 @@
+2.4.2 started
+#  Restricted servers fail to pull updates
+#  login.tpl gets replaced when user integration is disabled
+#  cart checkout gets replaced with login screen on vertical steps.
+#  Upon Order Completion, user is redirected but order not processed.
+#  ConvertTables files not included in archive
+~  Missing index.html files in various folders
