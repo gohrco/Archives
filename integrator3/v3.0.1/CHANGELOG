@@ -19,3 +19,24 @@
 +  I3 App:  Update library to check for updates from Go Higher and compare to existing sites
 +  I3 App:  Help / Systemstatus checks cnxn statuses and returns via ajax
 +  I3 App:  Ajax controller to handle ajax calls from admin backend
+#  I3 App:  wipe store not called properly
+#  RESOLVED - bug 80: System Status Site say old modules installed https://www.gohigheris.com/issues/show_bug.cgi?id=80
+~  I3 App:  Registration field sort order interface cleaned up
+#  I3 App:  404 error page shows error loading assets helper
++  Support for Fusion 4.40.1106 with file change modifications noted
++  WHMCS v5.1 beta template support
++  Recursive iconv functionality for arrays
+~  WHMCS template directories renamed
++  Int3 App:  RESOLVED - bug 52: Populate User List for Searches That Contain Partial Strings https://www.gohigheris.com/issues/show_bug.cgi?id=52
++  API calls in other connections added (Joomla and WP) for user_search
+~  LESS library included
+#  RESOLVED - bug 78: WHMCS Addon reports "Please check your settings and try again" https://www.gohigheris.com/issues/show_bug.cgi?id=78
+#  WHMCS v5.1 correction to find SSL status properly
+#  RESOLVED - bug 77: WHMCS user is not created on joomla https://www.gohigheris.com/issues/show_bug.cgi?id=77
+#  RESOLVED - bug 82: Login From clientarea.php issue https://www.gohigheris.com/issues/show_bug.cgi?id=82
+#  RESOLVED - bug 83: WHMCS client logs in, created on Joomla but not logged into Joomla https://www.gohigheris.com/issues/show_bug.cgi?id=83
+~  Logo change in Joomla!
+~  WHMCS_VERSION constant modified to include minor revision (ie 5 to 5.1)
+#  Updates aren't completing
+#  System won't log in
+~  Minor language updates
