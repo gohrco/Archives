@@ -40,3 +40,7 @@
 #  Updates aren't completing
 #  System won't log in
 ~  Minor language updates
++  I3 APP:  Template override capability for client facing pages
+#  Fusion Cnxn:  Template group not always assigned properly on client area.
+#  RESOLVED - bug 85: Button on Google Chrome not visible in the installation Routine https://www.gohigheris.com/issues/show_bug.cgi?id=85
+~  Added SQL update file to installer
