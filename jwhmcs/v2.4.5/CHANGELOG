@@ -1,0 +1,15 @@
+#  Script src regular expression catching more than src to rewrite
+#  RESOLVED - bug 94: Not properly formatted XML https://www.gohigheris.com/issues/show_bug.cgi?id=94
+#  Updates not functioning (RESOLVED - bug 95: Component Update Not Functional https://www.gohigheris.com/issues/show_bug.cgi?id=95)
+#  Updates not being done automatically for WHMCS Addon
+#  Site not properly wrapping
+#  Installation does not setup addon module if no addon modules are in place already
+#  Notice of undefined offset in curl class
+#  Joomla! 1.5 languages not being loaded properly
+#  RESOLVED - bug 96: Template Not Rendering Properly https://www.gohigheris.com/issues/show_bug.cgi?id=96
+#  RESOLVED - bug 97: Session::CheckToken doesn't exist https://www.gohigheris.com/issues/show_bug.cgi?id=97
+#  Resetting Password through Joomla user management component causes JWHMCS to redirect to WHMCS without actually resetting the password.
+#  View for Change Username at login fails to validate; javascript error indicating missing checkXHR function in javascript
+#  Automatic new user creation does not permit user with same name in WHMCS as another to create a new Joomla account to login resulting in confusing AUTH01P024 message
+#  Addon Modules reports ill-formed XML response
+#  Applied similar fix as to Belong (bug 98) to avoid finding and checking other extensions for updates unnecessarily
