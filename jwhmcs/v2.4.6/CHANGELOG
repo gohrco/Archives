@@ -1,0 +1,11 @@
+#  Install fails at checking WHMCS API (class curl is expecting header and body at _findredirect)
+#  SSL not properly detected WHMCS v5.1.2
+#  Google Chrome styling incorrect for installer
+#  Parsing mechanism misses @import url style declarations used by some YooTheme templates
+~  font url check for yoo theme templates added to parser
+#  User Manager throws notice errors on rows with Joomla user
++  Cleanup Method added to User Manager
+#  SSL being used on logout despite lack of SSL cert on Joomla
+#  WHMCS Default template sometimes fails with jQuery library not being loaded properly
+#  WHMCS Orderforms template 'slider' conflicts with MooTools
+#  Product initialization in Joomla causes all other addon modules in WHMCS to be deactivated
