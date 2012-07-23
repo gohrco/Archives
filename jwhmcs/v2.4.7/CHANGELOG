@@ -1,0 +1,6 @@
+!  Language checking in parsing mechanism updated
+#  XML parser reporting error when no data sent to parse
+#  WHMCS 5.1.2 Inactive users cant log in
+#  E_NOLOGIN_ACCESS reported for user logging in (Joomla 1.5 issue - no user group / gid in user array)
++  Cleanup now drops users from Joomla usertable that have no usergroup id or usertype (J! 1.5 only)
+#  New users with the same username as two others already in system fail to create new account.
