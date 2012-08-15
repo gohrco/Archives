@@ -1,0 +1,5 @@
+#  XML Parser fails to render with simple mechanism
+#  Notice errors reported in Update Manager
+#  jwhmcs-* templates not corrected, default to the default template override instead of appropriate template
+~  Footerline on WHMCS default template extends past most templates (display: none added to resolve)
+#  Remember Me isnt functioning properly across systems
