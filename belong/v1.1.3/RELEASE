@@ -1,0 +1,5 @@
+maturity=stable
+access=Public
+description=<p>With Joomla 2.5, a great deal of control is available over user access to specialized content with limitless user groups, permissions groups and fine grained control over tasks.  Belong allows you to assign user groups to a user based upon their product purchases in WHMCS.</p><ul><li>Added a User level plugin to run permission updates on user edits and log ins</li><li>Includes extensibility through use of Joomla! plugin system to connect to other API interfaces</li><li>Plugins included<ul><li>vBulletin 4.0 plugin</li><li>WHMCS plugin</li><li>Fusion (Kayako) plugin</li><li>Mailchimp plugin</li></ul></li></ul>
+created=2012-09-20
+itemaccess=Belong Active AxsLvl
