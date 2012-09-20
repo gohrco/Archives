@@ -1,0 +1,5 @@
+RESOLVED - bug 102: Foreach error when adding new rule https://www.gohigheris.com/issues/show_bug.cgi?id=102
+RESOLVED - bug 101: curl_info error when checking for updates https://www.gohigheris.com/issues/show_bug.cgi?id=101
++  Joomla! 3.0 compatible
++  Function to check individual users from WHMCS backend on Client Summary Page
+#  Updates not being found due to platform / platform version issues
