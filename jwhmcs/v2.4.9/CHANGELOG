@@ -1,0 +1,20 @@
+#  No error message (0) reported for failed logins when logging in from WHMCS
+*+ Joomla! 3.0 support added to all plugins
+*+ Joomla! 3.0 installation support added to module and component
+*+ Joomla 3.5 added to build files
+*  Updated environment to include Joomla! 3.5
++  Joomla! 3.0 support added product wide
+!  jQuery no longer loaded in Joomla! head - moved to WHMCS side in header.tpl file
+#  Not sending email messages at registration (Joomla! 1.5)
+#  Use of Request Username at First Login not functioning (Joomla! 2.5)
+#  Remember Me logins failing (Joomla! 2.5+)
+#  Notice error in authentication when not coming from WHMCS and an incorrect set of credentials provided.
+#  Joomfish languages not being pulled from database properly (J! 1.5)
+#  API from WHMCS returns folders and other files not related to languages in call to get languages from WHMCS
+#  Browser out of date message
+#  Incorrect data returned when checking for updates
+*  Correct Joomla! 3.5 file compatibility
+*  Fix for registration side password box floating funny
+*  Fix for registration side form not being sent (ajax issue)
+*  Update to localhost.properties
+*  Correct Update Check in JWHMCS file
