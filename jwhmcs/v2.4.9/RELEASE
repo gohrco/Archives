@@ -1,0 +1,6 @@
+maturity=stable
+access=Public
+description=<p>The latest release of J!WHMCS Integrator, version 2.4 has been restructured and reconfigured for greater flexibility and control.  Among the improvements of version 2.4:</p><ul><li>Merging of Joomla! 1.5 and Joomla! 2.5 into a single package</li><li>In-application product updates and checks - never miss an update again!</li><li>Refactoring of the WHMCS side - JWHMCS now utilizes the WHMCS Addon Module method of installation and management.</li><li>Template overrides - no longer necessary to duplicate your WHMCS template directory structure with jwhmcs-classic, jwhmcs-default, jwhmcs-portal directories.</li></ul><p>Be sure to check upgrade and installation instructions prior to install.</p><p>Important note:  J!WHMCS Integrator 2.4 is no longer backwards compatible with WHMCS version 4.</p>
+created=2012-09-21
+itemaccess=J!WHMCS Active AxsLvl
+itemaccess=mod_jwhmcslogin_v*.zip=Public
