@@ -1,0 +1,4 @@
+#  `messages_lang` being autoloaded in config no longer exists
+#  Errors on installer do not render properly
+#  Template library contains calls to items not found during installation
+#  Text field not correctly picking up ID declaration in form
