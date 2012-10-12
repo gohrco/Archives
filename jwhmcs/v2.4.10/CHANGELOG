@@ -1,0 +1,15 @@
+#  Default images declared in css in 5.1 not being displayed
+#  Welcome email sent twice on J!2.5+ when force adding user
+#  Welcome email sent without language translations on J! 1.5 when force adding user
+#  Different domain rendering img path not including a path if included when parsing page
+#  Joomla! 1.7.0 does not contain $app->input declaration and fails to get variables
+#  Login routine doesn't pass back correct error message when a return URL is unknown
++  Google Analytics tracking feature added
+#  Overlay and bar doesn't appear on Google Chrome when logging in
+#  When logging in from WHMCS without a password a `0` error is returned
+#  Debug not working properly on WHMCS side
+#  Language file not being included when calling up Joomla
+#  Greek and Cyrillic characters are not retrieved and stored properly
+~  Method provided in automatic installer to correct database tables user and usersub (latin1 to utf8 characterset)
+#  Internal Server Error reported when deleting users in Joomla! 1.5 backend
+*  2.4.10 update timestamp added
