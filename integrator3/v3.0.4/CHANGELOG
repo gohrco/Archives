@@ -1,0 +1,27 @@
+#  Version reflects 3.0.2 not current version after install
+~  First visual connection to succeed should be set as the Default visual setting automatically
+#  Info messages displaying within error message box
+#  RESOLVED - bug 105: File does not exist: .../includes/assets/js/noconflict.js https://www.gohigheris.com/issues/show_bug.cgi?id=105
+#  Update check for feed resulting in 404 URL removed
+#  RESOLVED - bug 104: 3.0.3 errors at end of installation  https://www.gohigheris.com/issues/show_bug.cgi?id=104
+#  Fatal error encountered when logging in and a cnxn id isn't valid or found
++  Multi-language support for backend
++  Multi-language support for frontend
+~  Improved logging messages for debug purposes
+~  Fusion documentation updated for 4.50
+~  Dropped SSL settings from various Configuration pages (since centrally located in SSL Settings now)
++  License reloading capable in I3 backend (license/index)
+~  Environment set to default to production instead of development
+#  Logged In users landing on register page get pushed to default visual wrapper despite specifying cnxn id in URL
+~  Redundant _v specification removed from redirection
+#  I3 Registration disabled also turns off the user login and logout controllers
+#  Logout fails when coming through an I3 linked item to the logout controller on the index with a sending id sent
+#  PHP Warning received with Debug enabled
++  Debug screen added to I3 application
+~  Temporary and Log directory settings added to configuration.php file
+#  Placeholder language incorrectly putting New Password in login form
+~  Informational messages added to backend to assist in settings configuration
++  View Log and Isolate User added to usermgr / search
+~  CI 2.1.3 in use
+#  Caching issue with Google Chrome and Safari browsers
+#  log in and log out iFrame being cached despite explicit declarations NOT to
