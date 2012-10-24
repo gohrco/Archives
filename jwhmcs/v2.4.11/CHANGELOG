@@ -1,0 +1,7 @@
+#  5.1 Classic template not showing some images (css references)
+#  Joomla 1.5 not correctly setting the messages in javascript for change username
+#  Login module fails to render user data with error in log due to currency issue
+#  RESOLVED - bug 100: Updates Icon does not appear when updates present https://www.gohigheris.com/issues/show_bug.cgi?id=100
+#  RESOLVED - bug 107: Non-Alphanumeric Characters Cause Backend Upgrade To Fail https://www.gohigheris.com/issues/show_bug.cgi?id=107
+!  XSS Security vulnerability addressed
+*  2.4.11 committed
