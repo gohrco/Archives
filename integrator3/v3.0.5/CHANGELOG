@@ -1,0 +1,7 @@
+#  Force add users into Joomla fails when created username is in use
+#  Common User object not creating usernames properly
+#  RESOLVED - bug 64: Joomla Menu Item Dropdown List Defaults to 'Affiliates' https://www.gohigheris.com/issues/show_bug.cgi?id=64
++  Multilingual capabilities added for rendering
+~  Log message added to CI core
+#  Directories and php files included in language retrieval for WHMCS
+#  Can not add variables to end of query string for Kayako Fusion menu items
