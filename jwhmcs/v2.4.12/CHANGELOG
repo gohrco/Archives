@@ -1,0 +1,21 @@
+~  Trim data from the curl handler added
+#  Incorrect return URL used when logging in from com_users login form (non-JWHMCS login form on Joomla)
+#  User match being lost when logging in with username instead of email address
+#  RESOLVED - bug 108: Password Reset through WHMCS doesn't complete https://www.gohigheris.com/issues/show_bug.cgi?id=108
+~  Artisteer regex updated
+#  Return variable not being set properly
+~  Removed redundant error code being added when user authentication fails
+#  Joomla registration redirects to WHMCS if user activation required resulting in logged in WHMCS user but not Joomla user
+#  Community Builder stores user twice, second time appears as an edit and user is redirected to WHMCS when shouldn't be
+#  Default language not being retrieved if unmatched WHMCS language selected
+#  Unpublished languages are selected for rendering when matched up in JWHMCS
+#  Registration form not creating the country list (Joomla! 1.5)
+#  Routing for registration incorrect (Joomla! 2.5)
+#  404 returned when forcing a change in username
+#  Changing username not redirecting (Joomla! 3.0)
++  Terms of Service added to Integrated Registration form
+~  Minor change to the registration form action
+~  Correction to routing
+#  User object being edited in authentication plugin triggering user plugin to redirect prematurely
+#  Database connection being reset by JWHMCS for non-JWHMCS tasks in WHMCS backend (quote duplication for instance)
++  Ability to include custom css for integrated pages (without losing changes during JWHMCS upgrades)
