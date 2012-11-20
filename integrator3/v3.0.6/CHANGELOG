@@ -1,0 +1,12 @@
+#  Protected variable error when writing error message to CI object in install check hook
+~  Dropped legacy data array from MY_Controller
+~  Readme file added for WP plugin site
+#  Password change by I3 client area doesn't force the password update across connections during session (log user out then back in)
+#  WHMCS shows open ticket for another user once logged in
+~  If no cnxn library returned when logging out then land on I3 login page
+#  Disabled connections still get called up on logout
+#  Default visual connection not returned for disabled visual connection
+~  Licensing interface improved
+#  User controller not setting email for finding secondary info properly
+#  Caching not functioning as expected
+~  Assets updated to include drupal icon styling
