@@ -1,0 +1,12 @@
+#  Regular expression match for link in Joomla isn't catching links built with line breaks within them (banner component specific)
+#  WHMCS tickets being retrieved for incorrect user
+#  I3 reports default visual cnxn isn't set when it is
+#  WHMCS CSS isn't displaying images properly
+#  Use of SSL fails with API curls
+#  Wordpress fails with a "NO" on user changes without I3 being setup yet
+#  Wordpress displays error messages if I3 not configured for curl
+#  WHMCS 5.1 not properly determining SSL
+#  RESOLVED - bug 114: Curl handler is not properly setting SSL options https://www.gohigheris.com/issues/show_bug.cgi?id=114
+#  RESOLVED - bug 113: Translatable logout message missing from I3 > User Configuration https://www.gohigheris.com/issues/show_bug.cgi?id=113
+#  RESOLVED - bug 111: Subtitle missing in I3 backend https://www.gohigheris.com/issues/show_bug.cgi?id=111
+#  [Joomla] Log in module not properly creating URLs
