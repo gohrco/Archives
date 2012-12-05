@@ -1,0 +1,11 @@
+#  Slider template not displaying image properly
+#  Error reported on settings with high settings
+~  Debug code left in updater
+#  Icons on registration form not showing up (J! 2.5)
+#  `You cannot change your email to` error returned on WHMCS registration
+#  Stylesheet links not properly closed with /> aren't parsed
+-  SQL support for group checks dropped in User Manager
+#  SSL not determined right on 5.1+ due to order of file array check
+#  JoomlArt T3 System Plugin declares JView after J!WHMCS and doesn't test for it.
+#  [Joomla 3.0] Authentication Plugin relying on deprecated and removed date function
+#  Users logging in to download a WHMCS download item are redirected to an incorrect URL due to path issue in redirect
