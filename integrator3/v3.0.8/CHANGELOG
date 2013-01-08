@@ -1,0 +1,34 @@
+#  RESOLVED - bug 112: Error Messages are missing when saving a WHMCS connection in I3 Backend https://www.gohigheris.com/issues/show_bug.cgi?id=112
+#  RESOLVED - bug 116: Feature to specify debug in the URL parameters https://www.gohigheris.com/issues/show_bug.cgi?id=116
+#  [I3] Error reporting constantly high despite setting server environment in configuration.php
+#  [Joomla 1.5] Users cant log in with authentication plugin enabled
+#  [Joomla 1.5] Authentication plugin fails with fatal error
+#  [Wordpress] Regular expression matching script sources within scripts and replacing
++  Clear Session Cache ajax functionality added to settings
+#  Update check doesn't clear following an update
+!  Wordpress path modified from integrator to integrato+  Ability to specify a default tab to land on for certain configuration pages added
+#  [I3] Setting for processing a login only when connected doesn't function user is always logged in
+#  [WHMCS] SSL not being determined properly
++  [core] Ability to use fieldset, legend and partials as a form field type added
+-  [core] Removed unused partials view
+#  [core] Messages containing URL invalid characters cause login cookie to invalidate
+#  [core] Path to the SSL CA Cert file is incorrectly determined
++  [core]  Settings for logging into Go Higher for updates included
++  [core]  Clear session caches capability in settings
++  [core] Updating included in product backend to make upgrades easier
+#  [wordpress] Inclusion of files in Wordpress fails after migrating from integrator to integrato+  [whmcs] custom.css file inclusion for standard templates and orderform templates
+#  [joomla]  Return URL specified in login module settings is not being applied to form
+#  [fusion] foreach error encountered during installation
+#  [joomla] javascript and css media not found due to extra slash being returned by Joomla
+#  [joomla] 1.5 parameter for override redirection didn't get updated
+#  [i3]  Visual Rendering is disregarding the SSL setting of the connection when retrieving the site (using an ssl uri when no ssl exists)
+#  [joomla] Integrator prepending an extra slash on media files included in head (J1.5)
+#  [joomla] User registration redirection not functioning (J1.5)
++  [core] Ability to set SSL setting for visual rendering
+#  [core] Logging in with special characters fails
+#  [joomla] Retrieving the username and passsword to verify user at authentication from I3 API fails
++  [core] Manual refresh of updates
+#  [core] Connections requiring use of SSL are defaulting to no SSL and causing server hangs upon adding.
+#  [joomla] Email changes are reverted back upon reload of page
+#  [core] form_prep helper error thrown in redirection function
+#  [core] when logging out from an application the visual wrapping is broken
