@@ -1,0 +1,4 @@
++  Input handler
+#  [whmcs] version 5 does not permit use of created functions with create_function in hook eval code
+#  [whmcs] version checking added
+#  [whmcs] compatibility issues with 5.0 and Twitter Bootstrap
