@@ -1,0 +1,6 @@
++  Bootstrap 2.2.2 CSS added
+#  [whmcs] Unable to load on PHP 5.2 (WSOD)
+~  Additional helper functions updated
+#  Hooks not passing $vars array
+#  Hook handler not passing back variable contents
++  [whmcs] client group form field type
