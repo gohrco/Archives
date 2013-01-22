@@ -1,0 +1,11 @@
+#  Bootstrap modals not displaying background
+#  Redundant calls to hook from same extension causes fatal error
+#  Default returned incorrectly for values containing '0' or 'null' (typecasting)
+#  Modules with subclass declarations being redeclared and not instantiated properly
++  Textarea field
++  WYSIWYG field
++  Toggle Button field
+#  WYSIWYG editor field type not compatible with WHMCS 5.0
++  Ability to determine filename in helper
++  SimpleXMLtoArray function added
++  [whmcs] CA cert added to assets
