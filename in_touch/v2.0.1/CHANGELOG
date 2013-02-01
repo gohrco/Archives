@@ -1,0 +1,2 @@
+#  Error thrown when creating invoice from support reply due to WHMCS trying to reload invoicefunctions
++  Ability to disable the use of the WYSIWYG editor javascript via configuration settings
