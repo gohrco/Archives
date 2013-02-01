@@ -1,0 +1,13 @@
+#  [joomla] updater reporting no component detected
+~  [joomla] added new regular expression to catch javascript src='' values within script declaration blocks
+#  [whmcs] inclusion of defines file in factory causes WSOD on some setups
+#  Logout routine ignores setting in I3 for using SSL or not
+#  [joomla] Login module fails in J! 1.6 due to missing JUri method call
+#  [core] missing iconv check causes rendering to fail
+#  [joomla] IIS doesnt properly include the helper class
+#  [joomla] IIS doesnt include helper file in system plugin
+#  [fusion] Kayako changed the modules / apps in 4.50 - uncaught change in configuration file caused app to not install
++  [joomla] Joomla 3.0 compatibility included
+#  [core] Database user with % in password fails on install
+#  [app] Joomla connection relying on incorrect URL for rendering images
+#  [core] Installation fails
