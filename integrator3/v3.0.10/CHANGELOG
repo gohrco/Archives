@@ -1,0 +1,4 @@
+#  [core] Product will not install without logs directory in place
+#  [joomla3]  No menu items available for mapping
+#  [core] Upgrade fails to catch configuration file and database settings
+#  [fusion] Kayako Resolve v4.52 fails to initialize in API properly
