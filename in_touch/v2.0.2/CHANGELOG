@@ -1,0 +1,4 @@
+#  Invoices being generated for support ticket replies
+#  Forgotten Password emails do not contain URL for resetting password
+#  Password Reset Confirmation does not contain new password (just stars)
+#  Password resets for contacts not passing information properly (contacts cannot be customized in this way)
