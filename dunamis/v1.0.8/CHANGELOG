@@ -1,0 +1,4 @@
+~  Logo added to WHMCS module list screen
+~  WHMCS v5.2 hook points added
+#  Headers expressly requested in call not being set to curl object on call
+~  Database now permits multiples to be instantiated and retrieved
