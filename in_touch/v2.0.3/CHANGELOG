@@ -1,0 +1,5 @@
+#  One off emails to clients aren't sent out
+~  Logo added to WHMCS module list screen
+~  SQL upgrade file for 2.0.2 added
+#  Escalated tickets through cron containing replies are not being sent properly
+#  Missing wysiwyg table value in installation script
