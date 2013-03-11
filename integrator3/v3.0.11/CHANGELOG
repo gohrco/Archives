@@ -1,0 +1,18 @@
+#  [core] Missing SQL file for upgrading 3.0.9 to 3.0.10
+~  [core] Added SQL update file to 3.0.10
+~  [core] Upgrades hang when SQL errors occur
+~  [core] Upgrade file for 3.0.7 to 3.0.8 modified
+#  [core] Installation fails to allow configuration file to be read due to directory restrictions
+#  Licensing fails to catch multiple S/U packs that cause problems validating
+#  Some owned licenses not being caught for validation
+#  Correct database installation sql file
+#  SSL check for the API interface should not consider the Integrator 3 application SSL setting
+#  Titles not appearing on pages rendered for Integrator 3
+#  [joomla-3x] DS undefined error in system plugin
+#  [joomla] Modified regular expressions to account for // and to catch weird img creations within javascript calls
+#  [core] SSL not being properly checked against connections to ensure retrieved site is ssl capable
+#  [joomla] regular expression tweaked for finding non-html5 compliant link tags
+#  [whmcs] Sometimes curl fails to ping site due to server configuration
+#  ajax url incorrect causes issues
+#  Upgrading Kayako Fusion fails when Integrator 3 installed already
++  Kayako Fusion 4.52 support added
