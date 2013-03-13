@@ -1,0 +1,8 @@
++  Template support for WHMCS v5.2
+~  API modification to get settings to accommodate serialization of IP address field
+#  Installer for 2.5 / 3.x sometimes doesn't pickup correct manifest file
+#  Filehandler modified to look for dologin rather than dbconnect (WHMCS v5.2 change)
+#  Clientarea pages result in an error (WHMCS v5.2 change)
+~  Added PHP Version response in checkinstall screen for debug purposes
+~  PHP compatability check in hook class
+*  Corrected version check in hook
