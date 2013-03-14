@@ -1,0 +1,3 @@
+#  [whmcs] Existing customers get redirected when logging in from shopping cart
+#  [fusion] Routes are modified so first letter is upper rest lower breaking seo and causing 404s on some setups
+#  [whmcs] View invoice renders blank invoice for v5.2
