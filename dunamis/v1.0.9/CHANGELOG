@@ -1,0 +1,9 @@
+~  [whmcs] debug function _w added to output globals without language strings
+#  Errant code remnant in database file
++  Support for WHMCS v5.2 added to input handler
+#  Admin page missing closing div tag
++  WHMCS v5.2 compatibility for document object
++  toggleyn field added to WHMCS portion of framework
++  Bootstrap 2.3.1 included
+#  Notice error thrown by database object
+~  WHMCS v5.2 compatibility change:  wysiwyg field modified
