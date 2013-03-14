@@ -1,0 +1,3 @@
+#  Site logo field not being rendered properly in WHMCS v5.1.2 w/ v4 Template
+-  Toggleyn field dropped (moved to Dunamis framework)
+~  Updated for WHMCS v5.2
