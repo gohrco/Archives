@@ -1,0 +1,4 @@
+#  WSOD after registering due to WHMCS v5.2.1 workaround (dropped now)
+#  Clients trying to log in are being matched up incorrect at authentication (WHMCS 5.2.2 issue possibly)
+#  Missing closing div tag on 5.2 default template
+#  footerdivider on default theme extends past some Joomla templates
