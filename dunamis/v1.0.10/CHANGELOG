@@ -1,0 +1,19 @@
+~  Toggleyn field updated to handle language strings for modules
++  Added commonly used field types from modules (fieldset, fieldsetclose, information, wrapc, wrapo)
++  API interface
+~  Minor change to _e helper function
+#  bootstrapSwatch javascript fails to load
+#  bootstrapSwitch javascript causes errors due to $ declaration missing
+~  updates to language and URI class
++  Ability to pass options to dunloader
++  Archive library added to core
++  Updates library added to core / whmcs environment
+#  CURL options aren't passed on get requests
+~  Server OS detection added to defines
+~  Path detection added to helper (get_path)
++  Archive library
++  Updates library
+~  update to fields library to begin transition to better get/set/has method
++  Chardin javascript library (onscreen help)
++  Update checking in Dunamis for framework
+~  CSS correction for bootstrap switch item
