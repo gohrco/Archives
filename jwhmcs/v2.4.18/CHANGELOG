@@ -1,0 +1,17 @@
+#  Temporary directory is empty at times throwing error
+#  Warning messages displayed when checking license and api with strict error reporting enabled
+#  Fatal error logging in when plugins disabled
+~  Modification to javascript routines to to trim string before parsing
+#  slider not functioning due to conflict with mootools
+#  Correct jqueryui change for slide > slidez renaming
+#  Template file for configuring products not loading correct jqueryui
+#  Comparison orderform template needs custom jquery ui as well
+#  Form validation no longer working (J!3.1)
+~  Skip validation on user creation from authentication plugin added
+#  Replacing the return URL fails for Joomla 3 sites
++  Support for alternative template names in /modules/addons/jwhmcs/templates/version folders
+#  Language replacement tag not being picked up properly
+#  Login screen for viewinvoice / viewquote are not wrapped
+*  Correction to regex for language replacement
+*  Timestamp update
+#  Owned licenses should not be prevented from running a version for which they have had an active support and upgrade pack for
