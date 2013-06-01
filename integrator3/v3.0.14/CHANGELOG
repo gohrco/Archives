@@ -1,0 +1,15 @@
+#  [fusion] Page mapping not properly picking proper item
+#  [whmcs] New users get redirected at checkout without completing order
+#  [fusion] Version 4.52 workaround implemented for user library
+#  [Wordpress] incorrect login and logout URLs being issued
+#  [Core]  Logout routine does not redirect out of frame when logout initiated from a cnxn
+#  [WHMCS] fails to render with 5.2.4 and PHP 5.2 or below
+#  [WHMCS] fails to render on some pages with 5.2.4 and PHP 5.2 or below
+#  [Wordpress] session mapping isn't working properly
+#  [core] logging in from connections that handle the connection first is failing to map the session
+#  [whmcs] Return URL not being determined properly for cart and other pages
+#  [core] installations fail when timezone isn't set properly on server
+#  [whmcs] logging in from cart failing to land on checkout page
+#  Users not being added properly to connections after being authenticated
+~  Change in the Joomla API handler for pinging a connection
+#  WSOD on login/succeed
