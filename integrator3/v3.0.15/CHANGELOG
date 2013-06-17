@@ -1,0 +1,9 @@
+#  [kayako] Language translation is not working
+#  [core] Leased licenses fail to operate
+#  [core] new users not being created properly when first connection fails to log in
+#  [joomla] base href not replaced when invalid html used
+#  Correction to ssl handling for rendering hrefs
+#  RESOLVED - issue INT-1: When primary site (client.gohigheris.com) goes down, I3 applications are failing immediately on license checks 
+http://support.gohigheris.com/issues/browse/INT-1
+~  Added 3.0.15 upgrade sql file
+[fusion] document modification required for 4.55 compatibility
