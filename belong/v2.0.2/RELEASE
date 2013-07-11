@@ -1,0 +1,5 @@
+maturity=stable
+access=Public
+description=<p>Belong bridges product and service purchases to ACL capabilities in other applications.  For example, a purchase in WHMCS can trigger a change in permission groups in Joomla, or the assignment of a segment in a Mailchimp list.  Belong 2.0 is all new with settings and features moved from Joomla over to WHMCS allowing for future expansion and development into new applications.</p>
+created=2013-07-11
+itemaccess=Belong Active AxsLvl
