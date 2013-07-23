@@ -1,0 +1,5 @@
+#  RESOLVED - issue JWHMCS-2: Epic fail on installation for WHMCS side http://support.gohigheris.com/issues/browse/JWHMCS-2
+#  RESOLVED - issue JWHMCS-4: With PHP Curl not built in after installation it is not possible to load WHMCS admin or Joomla admin http://support.gohigheris.com/issues/browse/JWHMCS-4
+#  RESOLVED - issue JWHMCS-1: Installation fails with rollback menu causing fatal error http://support.gohigheris.com/issues/browse/JWHMCS-1
+#  RESOLVED - issue JWHMCS-5: Disabling System Plugin causes Admin Backend to fail to render http://support.gohigheris.com/issues/browse/JWHMCS-5
+#  RESOLVED - issue JWHMCS-3: Multibyte error message http://support.gohigheris.com/issues/browse/JWHMCS-3
