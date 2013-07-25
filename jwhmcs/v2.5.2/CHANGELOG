@@ -1,0 +1,6 @@
+#  RESOLVED - issue JWHMCS-6: Leased licenses are not working http://support.gohigheris.com/issues/browse/JWHMCS-6
+#  RESOLVED - issue JWHMCS-8: WHMCS sites located in subfolders are not landing on the correct redirect page (missing subfolders) http://support.gohigheris.com/issues/browse/JWHMCS-8
+#  RESOLVED - issue JWHMCS-9: Yoo Theme template renders links / js twice http://support.gohigheris.com/issues/browse/JWHMCS-9
+#  RESOLVED - issue JWHMCS-7: Remember Me token is logging back in despite request to log out. http://support.gohigheris.com/issues/browse/JWHMCS-7
+#  RESOLVED - issue JWHMCS-10: Call to a member function exist() on a non-object received when checking status for updates http://support.gohigheris.com/issues/browse/JWHMCS-10
+#  RESOLVED - issue JWHMCS-11: Development licenses are not valid on install http://support.gohigheris.com/issues/browse/JWHMCS-11
