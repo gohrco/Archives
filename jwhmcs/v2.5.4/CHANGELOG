@@ -1,0 +1,9 @@
+#  RESOLVED - issue JWHMCS-19: The reset css link URL is wrong http://support.gohigheris.com/issues/browse/JWHMCS-19
+#  RESOLVED - issue JWHMCS-20: Custom templates are not calling up the custom.css file if enabled http://support.gohigheris.com/issues/browse/JWHMCS-20
+#  RESOLVED - issue JWHMCS-21: Menus with Arabic characters are not being rendered properly in menu selection http://support.gohigheris.com/issues/browse/JWHMCS-21
+#  RESOLVED - issue JWHMCS-22: WHMCS version 5.3 (error on their part) causes style to not render http://support.gohigheris.com/issues/browse/JWHMCS-22
+#  RESOLVED - issue JWHMCS-23: Extra space being returned by Joomla! API breaks json decoding http://support.gohigheris.com/issues/browse/JWHMCS-23
+#  Update to JWHMCS-21 bug
+#  RESOLVED - issue JWHMCS-26: Language Menu in Joomla not displaying correctly http://support.gohigheris.com/issues/browse/JWHMCS-26
+#  RESOLVED - issue JWHMCS-18: Order form styles are not implemented http://support.gohigheris.com/issues/browse/JWHMCS-18
+~  RESOLVED - issue JWHMCS-27: When using a custom template in WHMCS, as error message appears regardless of support for it. http://support.gohigheris.com/issues/browse/JWHMCS-27
