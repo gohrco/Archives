@@ -1,0 +1,13 @@
+~  [Wordpress] logins for admin area that have querystring variables appended by other plugins fail to catch for redirection check
+#  [whmcs] configure product is not a selectable option in map rendering
+RESOLVED - issue INT-3: Wordpress integration fails following upgrade http://support.gohigheris.com/issues/browse/INT-3
+RESOLVED - issue INT-5: Unable to change link settings in Wordpress admin http://support.gohigheris.com/issues/browse/INT-5
+#  RESOLVED - issue INT-6: Database fails to connect after installation http://support.gohigheris.com/issues/browse/INT-6
+#  RESOLVED - issue INT-8: User Integration does not carry over on WHMCS http://support.gohigheris.com/issues/browse/INT-8
+#  RESOLVED - issue INT-9: WHMCS Configurable Groups Fail to Duplicate Properly http://support.gohigheris.com/issues/browse/INT-9
+#  RESOLVED - issue INT-4: Admin username is truncated to 15 characters http://support.gohigheris.com/issues/browse/INT-4
+#  RESOLVED - issue INT-7: Strict Standards errors in WHMCS / PHP 5.4 http://support.gohigheris.com/issues/browse/INT-7
+~  Options not available after plugin updates
+#  RESOLVED - issue INT-11: Strict standards result in errors in Joomla http://support.gohigheris.com/issues/browse/INT-11
+#  RESOLVED - issue INT-10: Rendering fails silently without XMLWriter compiled http://support.gohigheris.com/issues/browse/INT-10
+#  IN PROGRESS - issue INT-2: Language strings not rendering properly http://support.gohigheris.com/issues/browse/INT-2
