@@ -1,0 +1,6 @@
+#  RESOLVED - issue JWHMCS-28: Language dropdown selection on WHMCS is not displaying correctly http://support.gohigheris.com/issues/browse/JWHMCS-28
+~  JUser object check addressed
+~  Removed errant debug code from user password reset functionality
+~  Corrected Login As Client functionality to ensure user lands on clientarea not on Joomla
+#  random usernames not working properly
++  Bypass feature for Joomla requirement for user activation added
