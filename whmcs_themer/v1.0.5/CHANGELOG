@@ -1,0 +1,4 @@
+#  when an image isnt found for the logo no logo is shown
+#  toggle buttons not rendering with language strings due to change in toggleyn location
+~  notice message generated for missing logo in css file
+#  RESOLVED - issue THEMER-1: Incompatibility with Dunamis Framework 1.1.4 http://support.gohigheris.com/issues/browse/THEMER-1
