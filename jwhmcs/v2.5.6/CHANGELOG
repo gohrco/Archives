@@ -1,0 +1,11 @@
+#  RESOLVED - issue JWHMCS-29: Rendering fails when user in WHMCS logged in but doesn't exist in Joomla http://support.gohigheris.com/issues/browse/JWHMCS-29
+#  RESOLVED - issue JWHMCS-31: Language Filter and SEF / .htaccess rewrite enabling causes rendering to fail http://support.gohigheris.com/issues/browse/JWHMCS-31
+#  RESOLVED - issue JWHMCS-32: Contact Form shows persistent error message http://support.gohigheris.com/issues/browse/JWHMCS-32
+~  Cleanup of notice errors (PHP 5.4 / WHMCS 5.3)
+~  Debug code left in authentication plugin at line 216
+#  RESOLVED - issue JWHMCS-30: Correct for viewinvoice and viewquote http://support.gohigheris.com/issues/browse/JWHMCS-30
++  Support for WHMCS 5.3 beta
+~  Minor tweaks to the updates library
++  Setting to pass along the client user agent when rendering
+~  Miscellaneous code cleanup
++  Dunamis framework compatibility check
