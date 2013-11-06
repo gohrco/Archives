@@ -1,0 +1,4 @@
++  WHMCS 5.3 compatibility added
++  phpunit testing for Dunamis Core
+#  RESOLVED - issue INTOUCH-5: Quote duplication fails with In Touch enabled http://support.gohigheris.com/issues/browse/INTOUCH-5
+~  Correct core.document handler instantiation
