@@ -1,0 +1,5 @@
+#  RESOLVED - issue INTOUCH-6: Unable to assign non-client to a client group when doing a quote http://support.gohigheris.com/issues/browse/INTOUCH-6
+#  RESOLVED - issue INTOUCH-7: Legal Footer is repeating 12 times on quote emails http://support.gohigheris.com/issues/browse/INTOUCH-7
++  Ability to prevent database settings from being wiped upon deactivation in WHMCS
+~  Move bootstrap load out of module init to render method to clear conflict with jqueryui elsewhere
+#  RESOLVED - issue INTOUCH-8: Password is not sent when converting a quote to an invoice for a new client http://support.gohigheris.com/issues/browse/INTOUCH-8
