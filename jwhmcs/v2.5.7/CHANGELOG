@@ -1,0 +1,2 @@
+~  Move bootstrap load out of module init to render method to clear conflict with jqueryui elsewhere
+!  Inclusion of updated Dunamis 1.2.1 library
