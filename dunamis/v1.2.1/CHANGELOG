@@ -1,0 +1,2 @@
+#  PHP 5.2 compatibility issue with late static bindings
+#  RESOLVED - issue DUN-8: Including WHMCS environment first in Joomla causes fatal error http://support.gohigheris.com/issues/browse/DUN-8
