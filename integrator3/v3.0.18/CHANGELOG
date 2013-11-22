@@ -1,0 +1,16 @@
+#  RESOLVED - issue INT-13: Joomla 3 does not return the versions of software properly http://support.gohigheris.com/issues/browse/INT-13
+#  RESOLVED - issue INT-14: WHMCS Addon Module reports settings are incorrect http://support.gohigheris.com/issues/browse/INT-14
+#  RESOLVED - issue INT-15: Correct for viewinvoice and viewquote in WHMCS http://support.gohigheris.com/issues/browse/INT-15
+#  RESOLVED - issue INT-15: Correct for viewinvoice and viewquote in WHMCS http://support.gohigheris.com/issues/browse/INT-15
+~  Cleanup strict error messages with PHP 5.4
+~  Minor change to Fusion install
++  Fusion 4.61 File Changes file added
+~  [Joomla] Cleanup code for PHP 5.4 Strict Messages
+#  RESOLVED - issue INT-17: Need ability to move cache folder to outside of public space http://support.gohigheris.com/issues/browse/INT-17
+#  RESOLVED - issue JWHMCS-30: Correct for viewinvoice and viewquote http://support.gohigheris.com/issues/browse/JWHMCS-30
+#  RESOLVED - issue INT-18: Using Chinese translation denies user from being able to log into I3 backend http://support.gohigheris.com/issues/browse/INT-18
+#  RESOLVED - issue INT-19: Translations not being done completely on user/info page http://support.gohigheris.com/issues/browse/INT-19
+~  Notice errors cleaned up in Joomla API
+#  RESOLVED - issue INT-21: Chinese characters in the username to not permit log ins http://support.gohigheris.com/issues/browse/INT-21
+~  Cleared strict messages on login from another connection
+#  RESOLVED - issue INT-16: Invalid Token arrived at when logging into I3 from Joomla login form http://support.gohigheris.com/issues/browse/INT-16
