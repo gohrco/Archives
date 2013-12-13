@@ -1,0 +1,5 @@
+#  RESOLVED - issue DUN-9: Installation of Dunamis Library causes fatal error WSOD http://support.gohigheris.com/issues/browse/DUN-9
+#  Curl fails to redirect with safemode / openbasedir enabled - work around added to curl handler for catching redirects manually
+#  Catch improper calls to the language translation to prevent breakage
+#  Empty data table row in WHMCS causes WSOD in addon modules area
+~  Recursive CURL calls corrected where not able to follow location is a problem
