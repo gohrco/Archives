@@ -1,0 +1,7 @@
++  Advanced method for parsing the head area
+~  Check for sh404sef settings when determining request signature for rendering
+~  Some installs force all calls to GET and dont respect POST variables - new advanced feature to force all calls to use GET instead
+#  If Dunamis isn't loaded when pulling page list fatal error results
+#  Work around for open_basedir and safe_mode enabled not permitting curl to follow redirects
+#  Ping check falsely returning success each call
+#  Correct css issues in default template
