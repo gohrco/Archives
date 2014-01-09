@@ -1,0 +1,3 @@
+~  PHP 5.4 Strict Standards compatibility adjustments
+#  Logging in hangs when using email from WHMCS going into Joomla
+#  Joomla users not being created by login routine
