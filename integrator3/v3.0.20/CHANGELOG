@@ -1,0 +1,9 @@
+#  RESOLVED - issue INT-22: I3 does not find and display WHMCS users that match a partial string http://support.gohigheris.com/issues/browse/INT-22
+#  RESOLVED - issue INT-25: Admin users with Chinese characters fail to log in properly http://support.gohigheris.com/issues/browse/INT-25
++  Tracy helper for better debugging
+#  High error reporting throws a notice causing login to fail
++  WHMCS 5.3 support
+#  Message language strings being urldecoded and rendered improperly
+~  Modification to Tracy loader to permit use of custom logs directory
+~  Correction to login.tpl for 5.3/default
+#  Chinese characterset doesn't permit users to login when using Chinese translations for messages
