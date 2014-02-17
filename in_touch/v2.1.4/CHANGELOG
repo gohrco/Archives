@@ -1,0 +1,6 @@
+#  Quote legal footers not appearing on printed quotes
+#  Existing quotes not storing group id for retrieval and use for customizing
+#  Correct installation for quote and invoice template issues
+#  Adjustments to regex to insert legal footer
+#  Password reset from admin area not working
+#  Password confirmation fails upon password reset on front end
