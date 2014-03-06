@@ -1,0 +1,13 @@
+#  URL rewrite flaw correction in system plugin
+#  Javascript links are getting broken when parsed
+~  Modification to css for default template to set the navbar width to auto
+#  Empty Autoauthkey causes a fatal error in System Check
+#  RESOLVED - issue JWHMCS-36: User not shown as logged in when viewing an invoice http://support.gohigheris.com/issues/browse/JWHMCS-36
+#  RESOLVED - issue JWHMCS-35: Joomla site is not converted to native WHMCS encoding http://support.gohigheris.com/issues/browse/JWHMCS-35
+~  Download ID added to settings
++  Ability to fix all files added to System Check
+#  Fix sh404sef checks in system plugin
+#  RESOLVED - issue JWHMCS-41: Viewinvoice isnt passing language string to Joomla for rendering http://support.gohigheris.com/issues/browse/JWHMCS-41
+~  Default template CSS adjustment for z-index modification
+#  RESOLVED - issue JWHMCS-37: Username field is not validating when using custom field for username http://support.gohigheris.com/issues/browse/JWHMCS-37
+#  RESOLVED - issue JWHMCS-40: No version indication in backend http://support.gohigheris.com/issues/browse/JWHMCS-40
