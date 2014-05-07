@@ -1,0 +1,5 @@
+maturity=stable
+access=Public
+description=<p>Simplified, lighter and more dynamic, J!WHMCS Integrator 2.5 brings a whole new level of integration between Joomla! and WHMCS than ever before!</p><p>J!WHMCS Integrator 2.5 has been completely reworked from the ground up and includes these exciting features:</p><ul><li>Combining of registration form fields from WHMCS into Joomla!'s native registration form</li><li>Reduced overhead in visual integration calls improving performance</li><li>Reliance on WHMCS hook points for insertion of Joomla! content permitting other 3rd party WHMCS modules to be used together</li><li>Tighter more intuitive user integration</li><li>Improved performance enhancements</li></ul><p>Be sure to check our <a href="https://support.gohigheris.com/docs/display/J25/J!WHMCS+2.5+Home" target="_blank">documentation</a> on installation and administration as the product has been greatly reworked.</p><p>Important note:  J!WHMCS Integrator 2.5 does not support Joomla! 1.5.</p>
+created=2014-05-07
+itemaccess=J!WHMCS Active AxsLvl
