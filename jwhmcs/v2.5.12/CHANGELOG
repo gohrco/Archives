@@ -1,0 +1,7 @@
+~  BOMs appearing in WHMCS output cause API response to be broken
++  Pricing Plugin brought over from J!WHMCS 2.4
+#  When editing a user from WHMCS it is not added if it doesn't exist per settings in JWHMCS
+#  RESOLVED - issue JWHMCS-42: Improperly Formatted URL Causes Unknown API Error in Joomla Backend http://support.gohigheris.com/issues/browse/JWHMCS-42
+#  Correct language translation from Joomla to WHMCS
+#  Expired S/U packs were causing product to fail license check
+#  RESOLVED - issue JWHMCS-38: When using customfield in WHMCS, field should pull existing Joomla username into a blank field http://support.gohigheris.com/issues/browse/JWHMCS-38
