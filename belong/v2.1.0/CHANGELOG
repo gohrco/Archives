@@ -1,0 +1,8 @@
+#  RESOLVED - issue BEL-6: Unable to use multiple Joomla plugins in same Belong installation in WHMCS http://support.gohigheris.com/issues/browse/BEL-6
+~  Correct code for PHP 5.4 strict errors
+~  Removed error reporting to avoid errors encountered by Joomla in API
+~  Correction to Joomla! ruleset dropping
+~  Miscellaneous code cleanup
++  Dunamis framework compatibility check
+~  Miscellaneous code cleanup
+#  RESOLVED - issue BEL-4: Large customer database prevents cron from finishing http://support.gohigheris.com/issues/browse/BEL-4
