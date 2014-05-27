@@ -1,0 +1,2 @@
+#  Base URL is incorrect on sites with a folder name in the path
+#  Joomla database load fails under certain conditions
