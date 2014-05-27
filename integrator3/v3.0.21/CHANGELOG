@@ -1,0 +1,10 @@
+#  Correct WHMCS module for PHP 5.4 compatibility in strict mode
+#  Tracy loader throws fatal error on PHP 5.2
+~  Debug library throws an error on unserialization of bad string
++  WHMCS option to enable or disable wrapping invoices
+~  CSS modifications to template files for invoices
+#  WHMCS doesnt redirect a session timed-out user causing WHMCS site to be embedded within itself
+#  Fusion returning XML response with leading blank space causes SimpleXML to fail
+~  Adjustment to correction on regular expression cleaning up Fusion response
+#  RESOLVED - issue INT-32: Retrieving the route for an I3 page does not map language http://support.gohigheris.com/issues/browse/INT-32
+#  Quotes fail to duplicate in WHMCS
