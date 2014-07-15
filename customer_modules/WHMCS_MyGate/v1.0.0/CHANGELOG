@@ -1,0 +1,10 @@
++  Initial commit of mgvirtual gateway
++  Addition of mgenterprise
+~  Modification to callback routine
++  README updated
++  MyEnterprise gateway started
++  Documentation for 3D Secure process
+~  Continued work on Enterprise module
++  Error Code translations to SoapResponse handler
++  Refund capability
+~  Documentation update
