@@ -1,0 +1,3 @@
+#  If Dunamis is uninstalled before JBlesta the entire system whites out across all areas
++  Blesta 3.3 support
+#  scripts using base64 encoded sources are not filtered out for rendering replacements
