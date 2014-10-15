@@ -1,0 +1,4 @@
+#  Whitescreen present when loading in certain conditions
+#  Curl handler not redirecting with 303 despite PHP settings not preventing it from doing so
+#  Potential security vulnerability addressed in css assets
++  Check for file changes in Blesta
