@@ -1,0 +1,7 @@
+#  When no gotourl is specified the system goes to Joomla as a landing page for logging in
+#  When bypassing authentication routine no email is stored
+#  Logged in users visiting the contact form end up with an error message if they dont exist in WHMCS
+#  Menu selection fails with fatal error about dunloader not being defined
+#  Upon install plugins are not being enabled automatically
+#  LiveHelp Addon from WHMCS fails to function with JWHMCS enabled
+#  LiveHelp Addon from WHMCS fails to function with JWHMCS enabled (second modification)
