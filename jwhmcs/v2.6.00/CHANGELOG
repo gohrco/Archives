@@ -1,0 +1,11 @@
++  Support for WHMCS v6
++  Support for `bootwhmcs` template
++  Support for `six` template
++  Sync Utility
+#  `Fix All` button disappears immediately after loading in System Check page
++  Button fix option added to work around templates that break the default action from cpanel login button and other buttons
+#  When a first and last name are not present a user cannot be created based solely on their company name
+-  Removal of old Dunamis Debug mechanism
+~  Adjustments for Dunamis 1.4.0 debug capabilities
++  Option to automatically update templates upon upgrading module
++  Enable Resize JS option
