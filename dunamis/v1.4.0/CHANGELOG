@@ -1,0 +1,23 @@
++  [WHMCS] Report capabilities added for module handler
++  Tracy debugger in place
++  API box for Tracy debugger added
++  Debugging added to Joomla environment
+~  Joomla dunamis component improvement
+~  Minor adjustment to curl handler for debugging purposes
+~  Minor adjustment to database handler for debugging purposes
+~  [WHMCS] settings moved from WHMCS' addonmodule table to own table to utilize Dunamis Config object
+~  Adjustment to debug library
+~  [CORE] Added debug capability to update handler
++  [WHMCS] Download ID field added to allow automatic downloads
+#  Transliteration error in api handler
+!  [WHMCS] Debugger breaks API functionalities when called up
++  [Joomla] get and set base added to document handler
++  [Joomla] is_ssl functionality added
+~  [CORE] Textarea field cols | rows | style attributes added
+~  [CORE] is_ajax function introduced for checking debug enabling
+~  [WHMCS] environment version updated to accommodate possiblity that version of WHMCS may include hyphens during beta / rc releases
+~  [WHMCS] Removal of get_version function carried out from JWHMCS
+~  [JOOMLA] When upgrading from older Dunamis and not setting options in place yet, error message thrown by debug check in environment file
+~  [WHMCS] check compatiblity function ported from J!WHMCS
+#  [CORE] Fields -> getValue throws a warning when value is an array
+#  [CORE] Debug never displays outside of localhost sites
