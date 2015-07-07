@@ -1,0 +1,3 @@
+#  RESOLVED - issue INT-36: Login results in a blank page, no messages displayed or error log http://support.gohigheris.com/issues/browse/INT-36
+#  If Fusion fails to respond with XML, I3 app is unable to recover when retrieving information about application
+#  INT-37: Automatic updates are not loading the API folder proper creating a serious issue http://support.gohigheris.com/issues/browse/INT-37
