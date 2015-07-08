@@ -1,0 +1,5 @@
+#  [JOOMLA] searching for username fails with fatal error if email entered during login
+#  [JOOMLA] legacy issue with Joomla! 2.5 rendering
+#  [WHMCS] version 6 introduces new way to retrieve template variables
+#  [FUSION] when a failure occurs on the Fusion side resulting in an error string, I3 does not fail gracefully
+#  [JOOMLA] missing validate on create API call
