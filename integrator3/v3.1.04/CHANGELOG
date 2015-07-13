@@ -1,0 +1,7 @@
++  RESOLVED - issue INT-38: Ability to redirect logins to I3 / login area instead of deferring to connection for log in screen http://support.gohigheris.com/issues/browse/INT-38
+#  RESOLVED - issue INT-40: Incorrect URL causes settings page fatal Exception / blank page http://support.gohigheris.com/issues/browse/INT-40
+#  [WHMCS] Missing navbar disable code in template `six`
+~  RESOLVED - issue INT-39: Convert I3 Upgrade System to use Download ID instead of username / password http://support.gohigheris.com/issues/browse/INT-39
+#  RESOLVED - issue INT-42: No way to clear unused connection maps from database. http://support.gohigheris.com/issues/browse/INT-42
+#  [WHMCS] Correction to six template
+~  [CORE] Extended log library to add debugging capability
