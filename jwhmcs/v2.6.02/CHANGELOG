@@ -1,0 +1,10 @@
+#  template six css not correcting for non-responsive selection in settings
+#  CSS adjustments for `six` template
+#  Adjustment to header.tpl file compatiblity with v6.0.1
++  Custom CSS included in settings for easier customization
+#  Update handler incorrectly storing and retrieving update information
++  Remote update capability from either Joomla or WHMCS
+#  RESOLVED - issue JWHMCS-47: Users unable to update settings in WHMCS frontend http://support.gohigheris.com/issues/browse/JWHMCS-47
+#  Customers without bootwhmcs template are unable to clear the error message in the file checking area.
+~  Inclusion of `five` template
+#  Adjustment to 6.0 template files to work around Allow PHP Smarty Tags being disabled
