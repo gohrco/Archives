@@ -1,0 +1,11 @@
+#  [WHMCS] template six css not correcting for non-responsive selection in settings
+#  RESOLVED - issue INT-45: Return to Admin results in I3 trying to logout across applications http://support.gohigheris.com/issues/browse/INT-45
+#  [JOOMLA] - When retrieving menu items from Joomla database Greek characters are not being retrieved UTF-8
+#  [WHMCS] CSS adjustments for `six` template
+#  [WHMCS] Adjustment to header.tpl file compatiblity with v6.0.1
+#  RESOLVED - issue INT-44: Upon upgrade new language files not found in other languages causes 500 error message http://support.gohigheris.com/issues/browse/INT-44
+#  RESOLVED - issue INT-43: Automatic Updates from within I3 Application http://support.gohigheris.com/issues/browse/INT-43
+#  RESOLVED - issue INT-46: Pages aren't mapping from WHMCS to destination http://support.gohigheris.com/issues/browse/INT-46
+#  [WHMCS] minor css adjustments for bootwhmcs template
+#  [JOOMLA] Joomla fails with WSOD on admin area
+#  RESOLVED - issue INT-47: Upon Checkout error message received: integrator.The signatures are not matching one another. Please try again. http://support.gohigheris.com/issues/browse/INT-47
