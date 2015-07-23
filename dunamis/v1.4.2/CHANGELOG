@@ -1,0 +1,5 @@
+#  [CORE] Archive trimming off directory separator from front and back resulting in relative path for extracting archives not working
+#  WSOD experienced if helpers called up for the environment but no class exists
+#  RESOLVED - issue INT-43: Automatic Updates from within I3 Application http://support.gohigheris.com/issues/browse/INT-43
+#  [JOOMLA] Missing authentication, search and content plugin support in module handler
+#  [JOOMLA] When updating the last run time, the window is added to the last run timestamp which could be a long time ago and never catches up to current time.
