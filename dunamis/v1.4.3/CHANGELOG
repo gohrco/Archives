@@ -1,0 +1,4 @@
+#  [WHMCS] The WYSIWYG editor isn't loading in WHMCS v6
+#  DunUri isInternal returned false positives
+#  [BLESTA] jQuery conflicts arise when using Dunamis in Blesta
+#  [WHMCS] Hook procedure adjusted to check for responses from hook calls in slightly different manner to properly render
