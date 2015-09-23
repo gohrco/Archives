@@ -1,0 +1,3 @@
++  WHMCS v6.1 template support
+#  BASE HREF is being stripped out of Joomla template but missing in WHMCS six template
+#  Legacy template folders should be ignored in system check
