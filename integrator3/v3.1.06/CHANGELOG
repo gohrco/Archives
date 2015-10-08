@@ -1,0 +1,10 @@
+~  [CORE] move of server call change from input handler in core to extended input handler for compatiblity purposes
+~  [CORE] change to CI 2.2.3
+#  [WHMCS] Page mapping is not functioning properly when WHMCS is in a subdirectory
+#  RESOLVED - issue INT-51: New Joomla Users are not enabled http://support.gohigheris.com/issues/browse/INT-51
+~  [WHMCS] minor change to bootstrap css to adjust for font location
+#  [WHMCS] When landing on root of WHMCS, no filename is passed along for rendering purposes
+#  [INTEGRATOR] rendering message translation added
++  WHMCS v6.1 template support
+#  [CORE] Catch API errors from Kayako to avoid Uncaught Exceptions
+#  [WHMCS] Page Mapping not working properly - Update of entire mapping system to permit wildcard (#  [WHMCS] template files updated for WHMCS v6.1 support
