@@ -1,0 +1,2 @@
+#  [CORE] SimpleXML handler throws an error when non-XML content passed to it for parsing
+#  [CORE] Input sanitation updated to avoid deprecation function issue on PHP 5.5+
