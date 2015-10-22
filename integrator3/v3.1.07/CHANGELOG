@@ -1,0 +1,10 @@
+#  [WHMCS] version 6.1 seems to be bypassing the ClientAdd hook
+#  [WHMCS] Orders done in the cart for new customers fail to process
+#  [WHMCS] Invoices are not wrapped in 'six' template in v6.1
+!  [CORE] force adding users isnt working at login
+#  [WHMCS] Adjusted get_version to get_i3_version in order to avoid function conflicts
+#  [WHMCS] adjustment to routing mechanism
+#  [WHMCS] Active users being set to inactive in other connections
+#  [JOOMLA] Validate on update call was not finding new email address to validate against
+#  [WHMCS] Upon editing details in WHMCS v6 the old data is not being sent over for updating against
+#  [CORE] When logging in an error occurs in the Joomla cnxn periodically
