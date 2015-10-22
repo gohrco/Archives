@@ -1,0 +1,7 @@
+#  Mass mail checker fails if a request variable called 'custom' is used
+#  modification to get_version function to get_intouch_version to ensure compatibility with other modules
+#  RESOLVED - issue INTOUCH-14: Logo not being customized for invoices http://support.gohigheris.com/issues/browse/INTOUCH-14
+#  RESOLVED - issue INTOUCH-9: Toggle to disable / enable email handling per group http://support.gohigheris.com/issues/browse/INTOUCH-9
+#  RESOLVED - issue INTOUCH-10: Email CSS Field Saves HTML Encoded Values Recursively http://support.gohigheris.com/issues/browse/INTOUCH-10
++  version 6.1 template support
++  System Check to provide means of updating templates
