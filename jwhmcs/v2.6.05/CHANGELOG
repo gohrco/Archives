@@ -1,0 +1,7 @@
+#  Search results are not having WHMCS URL properly used for result link
+#  Invoices are not wrapped in 'six' template in v6.1
++  MooTools / Bootstrap conflict fix option to work around disappearing menu items
+#  WHMCS six template doesn't render knowledgebase articles properly
+#  Correction to licensing
+#  correction to standard cart template
++  WHMCS v6.2 template file support
