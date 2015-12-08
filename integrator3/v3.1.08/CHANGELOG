@@ -1,0 +1,5 @@
+#  [WHMCS] No rendering occurs if landing on root w/out filename w/ a query string variable
+#  [WHMCS] Routes are not properly being set with the visual identifier in them
+#  [WHMCS] six template doesn't render knowledgebase articles properly
+#  [Joomla] Logging in through Joomla login form doesn't return user to correct location
+#  [WHMCS] correction to standard cart template
