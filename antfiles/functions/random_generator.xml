@@ -1,0 +1,17 @@
+<project>
+	<!-- Random Number Generator -->
+	<scriptdef language="javascript" manager="javax" name="random">
+	<attribute name="max" />
+	<attribute name="property" />
+var max=attributes.get("max");
+var property=attributes.get("property");
+
+if(max==null|| property==null) {
+	self.fail("'property'or 'max'is not set");
+}
+else {
+	var result=java.util.Random().nextInt(max);
+	project.setNewProperty(property, result);
+}
+	</scriptdef>
+</project>

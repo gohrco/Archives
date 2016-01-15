@@ -1,0 +1,12 @@
+<project name="global.includes" basedir=".">
+	
+	<!-- Global Resources Import -->
+	<import file="resources/resources-all.xml" />
+	
+	<!-- Function Import -->
+	<import file="functions/functions-all.xml" />
+	
+	<!-- Global Properties Import -->
+	<import file="properties/properties-all.xml" />
+	
+</project>
