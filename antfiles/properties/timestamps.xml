@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="global.timestamps" basedir=".">
+
+	<tstamp>
+		<format property="TODAY"	pattern="yyyy MMMM d" />
+		<format property="RELDATE"	pattern="yyyy-MM-dd" />
+		<format property="JIRADATE"	pattern="d/MMMM/yyyy" />
+	</tstamp>
+	
+	<property name="time.releasedate" value="RELDATE" />
+	<property name="time.jiradate" value="JIRADATE" />
+	
+</project>

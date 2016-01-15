@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="Global Functions" basedir=".">
+	
+	<!-- Include individual files now -->
+	<import file="build_changelog.xml" />
+	<import file="create_release.xml" />
+	<import file="dunamis.build_changelog.xml" />
+	<import file="dunamis.create_release.xml" />
+	<import file="dunamis.debugger.xml" />
+	<import file="dunamis.repl_dir.xml" />
+	<import file="dunamis.repl_file.xml" />
+	<import file="dunamis.zipr_file.xml" />
+	<import file="ioncube_dir.xml" />
+	<import file="ioncube_file.xml" />
+	<import file="licensing.xml" />
+	<import file="random_generator.xml" />
+	<import file="repl_dir_by_fileset.xml" />
+	<import file="repl_dir.xml" />
+	<import file="repl_file.xml" />
+	<import file="zipr_file.xml" />
+
+</project>

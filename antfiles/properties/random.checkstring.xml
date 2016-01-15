@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="global.checkstring" basedir=".">
+	
+	<random max="1000000000" property="result" />
+	<property name="checkstring" value="${result}" />
+	
+</project>
