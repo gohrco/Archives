@@ -9,7 +9,6 @@
 		<attribute name="output" default="debug/results.html" />
 		
 		<sequential>
-			<echo>@{root}@{dest}@{check}</echo><fail/>
 			<exec executable="cmd" outputproperty="debugoutput">
 				<arg value="/c" />
 				<arg value="@{phpexe}" />
