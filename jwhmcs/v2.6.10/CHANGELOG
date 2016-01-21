@@ -1,0 +1,5 @@
++  Option to strip the base href from the Joomla template and not include it in the `six` template
+#  Correction to Five template styling files
+#  Search results are incorrect when SEO is enabled on WHMCS
+~  Change of view to use views folder and files
+~  Update to introduction text
