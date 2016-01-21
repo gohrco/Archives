@@ -54,6 +54,7 @@
 						<token key="buildEmail" value="@{email}" />
 						<token key="buildUrl" value="@{link}" />
 						<token key="buildLicense" value="@{license}" />
+						<token key="checkString" value="${checkstring}" />
 					</replacetokens>
 				</filterchain>
 			</copy>

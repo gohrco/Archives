@@ -35,6 +35,7 @@
 						<token key="buildEmail" value="${project.EMAIL}" />
 						<token key="buildUrl" value="${project.URL}" />
 						<token key="buildLicense" value="@{license}" />
+						<token key="checkString" value="${checkstring}" />
 					</replacetokens>
 				</filterchain>
 			</copy>

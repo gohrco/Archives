@@ -13,11 +13,15 @@
 	<import file="dunamis.zipr_file.xml" />
 	<import file="ioncube_dir.xml" />
 	<import file="ioncube_file.xml" />
+	<import file="jira_update.xml" />
 	<import file="licensing.xml" />
 	<import file="random_generator.xml" />
 	<import file="repl_dir_by_fileset.xml" />
 	<import file="repl_dir.xml" />
 	<import file="repl_file.xml" />
+	<import file="svn_tag.xml" />
+	<import file="svn_update.xml" />
+	<import file="svn_versioncommit.xml" />
 	<import file="zipr_file.xml" />
 
 </project>
