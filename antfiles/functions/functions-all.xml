@@ -15,6 +15,7 @@
 	<import file="ioncube_file.xml" />
 	<import file="jira_update.xml" />
 	<import file="licensing.xml" />
+	<import file="project_tag.xml" />
 	<import file="random_generator.xml" />
 	<import file="repl_dir_by_fileset.xml" />
 	<import file="repl_dir.xml" />
