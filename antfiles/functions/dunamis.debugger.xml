@@ -15,10 +15,10 @@
 				<arg value="&quot;@{root}@{dest}@{check}&quot;" />
 			</exec>
 			
-			<echo message="${debugoutput}" file="@{output}" />
+			<echo message="${debugoutput}" file="@{root}@{dest}/@{output}" />
 			
 			<property name="browser" location="C:/Program Files (x86)/Mozilla Firefox/firefox.exe"/>
-			<property name="location" location="@{output}"/>
+			<property name="location" location="@{root}@{dest}/@{output}"/>
 
 			<exec executable="${browser}" spawn="true">
     			<arg value="${location}"/>
