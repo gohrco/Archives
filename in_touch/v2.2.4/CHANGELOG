@@ -1,0 +1,4 @@
+#  Mass Mail Template usage not working properly
++  WHMCS 6.2 support
+#  Issue with Quote PDF files throwing 500 errors due to \$ in line 48
+~  Change of view to use views folder and files
