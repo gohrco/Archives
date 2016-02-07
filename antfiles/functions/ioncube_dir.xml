@@ -31,6 +31,7 @@
 					<exclude name="**/*.gif" />
 					<exclude name="**/*.pdf" />
 					<exclude name="**/lang/*.php" />
+					<exclude name="**/tests/**/*.*" />
 				</fileset>
 				
 				<filterchain>
@@ -68,6 +69,7 @@
 				<exclude name="README.rst" />
 				<exclude name=".buildfiles/**/*.*" />
 				<exclude name=".settings/**/*.*" />
+				<exclude name="**/tests/**/*.*" />
 				<include name="**/*.png" />
 				<include name="**/*.jpg" />
 				<include name="**/*.gif" />
