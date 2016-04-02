@@ -1,0 +1,4 @@
+[CORE]  Adjustment to update library to handle new server
+#  [WHMCS] Correct for OAUTH conflict
+#  [WHMCS] Strip base href option added to correct for conflicts in `six` template
++  WHMCS 6.3 support
