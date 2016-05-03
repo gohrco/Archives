@@ -10,6 +10,7 @@
 	<import file="dunamis.debugger.xml" />
 	<import file="dunamis.repl_dir.xml" />
 	<import file="dunamis.repl_file.xml" />
+	<import file="dunamis.scp.xml" />
 	<import file="dunamis.zipr_file.xml" />
 	<import file="ioncube_dir.xml" />
 	<import file="ioncube_file.xml" />
