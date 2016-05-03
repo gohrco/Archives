@@ -1,0 +1,20 @@
+<project>
+
+	<macrodef name="dunamis.scp">
+		<!-- File Structure -->
+		<attribute name="user" default="" />
+		<attribute name="password" default="" />
+		<attribute name="host" default="" />
+		<attribute name="remotepath" default="" />
+		<attribute name="sourcepath" default="" />
+		
+		<sequential>
+			<property name="host" value="@{host}" />
+			<scp todir="@{user}:@{password}@${host}:@{remotepath}" trust="true">
+				<fileset dir="@{sourcepath}"/>
+			</scp>
+		</sequential>
+		
+	</macrodef>
+	
+</project>

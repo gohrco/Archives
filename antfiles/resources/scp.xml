@@ -1,0 +1,8 @@
+<project>
+	
+	<taskdef name="scp" classname="org.apache.tools.ant.taskdefs.optional.ssh.Scp">
+		<classpath>
+			<pathelement location="C:/Program Files/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/jsch.jar" />
+		</classpath>
+	</taskdef>
+</project>
