@@ -1,8 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+
 <project>
 	
-	<taskdef name="scp" classname="org.apache.tools.ant.taskdefs.optional.ssh.Scp">
-		<classpath>
-			<pathelement location="C:/Program Files/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/jsch.jar" />
-		</classpath>
-	</taskdef>
+
+	<path id="jsch.path">
+	    <pathelement location="${ant.home}/lib/ant-jsch.jar" />
+	    <pathelement location="${ant.home}/lib/jsch-0.1.54.jar" />
+	</path>
+
+	<taskdef name="scp" classname="org.apache.tools.ant.taskdefs.optional.ssh.Scp" classpathref="jsch.path" />
+	<taskdef name="sshexec" classname="org.apache.tools.ant.taskdefs.optional.ssh.SSHExec" classpathref="jsch.path" />
+	
+	<!-- Load the jsch lib -->
+	
 </project>

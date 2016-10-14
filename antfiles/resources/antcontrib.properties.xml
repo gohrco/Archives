@@ -1,7 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+
 <project>
 	<taskdef resource="net/sf/antcontrib/antcontrib.properties">
 		<classpath>
-			<pathelement location="C:/Program Files/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/ant-contrib-1.0b3.jar"/>
+			<pathelement location="F:/Program Files/eclipse/plugins/org.apache.ant_1.8.2.v20120109-1030/lib/ant-contrib-1.0b3.jar"/>
 		</classpath>
 	</taskdef>
 </project>
