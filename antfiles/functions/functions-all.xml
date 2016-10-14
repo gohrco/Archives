@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
 
 <project name="Global Functions" basedir=".">
 	
@@ -11,6 +12,7 @@
 	<import file="dunamis.repl_dir.xml" />
 	<import file="dunamis.repl_file.xml" />
 	<import file="dunamis.scp.xml" />
+	<import file="dunamis.scpfile.xml" />
 	<import file="dunamis.zipr_file.xml" />
 	<import file="ioncube_dir.xml" />
 	<import file="ioncube_file.xml" />
