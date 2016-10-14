@@ -9,8 +9,8 @@
 	    <pathelement location="${ant.home}/lib/jsch-0.1.54.jar" />
 	</path>
 
-	<taskdef name="scp" classname="org.apache.tools.ant.taskdefs.optional.ssh.Scp" classpathref="jsch.path" />
-	<taskdef name="sshexec" classname="org.apache.tools.ant.taskdefs.optional.ssh.SSHExec" classpathref="jsch.path" />
+	<taskdef name="myscp" classname="org.apache.tools.ant.taskdefs.optional.ssh.Scp" classpathref="jsch.path" />
+	<taskdef name="mysshexec" classname="org.apache.tools.ant.taskdefs.optional.ssh.SSHExec" classpathref="jsch.path" />
 	
 	<!-- Load the jsch lib -->
 	
