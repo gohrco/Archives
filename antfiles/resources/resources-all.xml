@@ -4,7 +4,7 @@
 <project name="Global Resources" basedir=".">
 
 	<!-- Include individual files now -->
-	<import file="antcontrib.properties.xml" />
+	<!--<import file="antcontrib.properties.xml" />-->
 	<import file="scp.xml" />
     
 </project>

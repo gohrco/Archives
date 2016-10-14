@@ -12,9 +12,9 @@
 		
 		<sequential>
 			<property name="host" value="@{host}" />
-			<scp todir="@{user}:@{password}@${host}:@{remotepath}" trust="true">
+			<myscp todir="@{user}:@{password}@${host}:@{remotepath}" trust="true">
 				<fileset dir="@{sourcepath}"/>
-			</scp>
+			</myscp>
 		</sequential>
 		
 	</macrodef>
