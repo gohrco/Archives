@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
 <project>
 	
 	<macrodef name="licensing">
@@ -38,14 +40,24 @@
 			<!-- <echo message="${projectLicensing}" /><fail/> -->
 			
 			<!-- Ensure we have a property or there is a problem... -->
+			<condition property="fail.licensing">
+				<or>
+					<equals arg1="${projectLicensing}" arg2=""/>
+					<not>
+						<isset property="projectLicensing"/>
+					</not>
+				</or>
+			</condition>
+			
 			<fail message="The call to the Go Higher server returned an empty result">
 				<condition>
-					<or>
-						<equals arg1="${projectLicensing}" arg2=""/>
+					<and>
+						<equals arg1="${fail.licensing}" arg2="true" />
+						<isset property="run.encoder" />
 						<not>
-							<isset property="projectLicensing"/>
+							<equals arg1="run.encoder" arg2="true" />
 						</not>
-					</or>
+					</and>
 				</condition>
 			</fail>
 			
