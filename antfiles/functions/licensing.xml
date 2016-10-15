@@ -27,14 +27,19 @@
 			<echo message=" " />
 			
 			<!-- Command Line PHP to retrieve Go Higher release values -->
-			<exec executable="cmd" outputproperty="projectLicensing">
-				<arg value="/c" />
-				<arg value="C:\xampp\bin\php\php5.4.16\php.exe" />
-				<arg value="&quot;C:\xampp\www\tools\licensing.php&quot;" />
-				<arg value="&quot;${project.UPDATE_SITE}&quot;" />
-				<arg value="&quot;${RELDATE}&quot;" />
-				<arg value="${project.VERSION}" />
+			<exec executable="c:\curl\curl.exe" outputproperty="projectLicensing">
+				<arg line="-s -d url=${project.UPDATE_SITE}&amp;date=${RELDATE}&amp;version=${project.VERSION} http://tools.local/licensing.php" />
 			</exec>
+			
+			<!-- <echo message="${projectLicensing}" /><fail /> -->
+			<!-- <exec executable="cmd" outputproperty="projectLicensing"> -->
+			<!-- <arg value="/c" /> -->
+			<!-- <arg value="C:\xampp\bin\php\php5.4.16\php.exe" /> -->
+			<!-- <arg value="&quot;C:\xampp\www\tools\licensing.php&quot;" /> -->
+			<!-- <arg value="&quot;${project.UPDATE_SITE}&quot;" /> -->
+			<!-- <arg value="&quot;${RELDATE}&quot;" /> -->
+				<!-- <arg value="${project.VERSION}" /> -->
+			<!-- </exec> -->
 			
 			<!-- Uncomment to permit debugging of licensing call to Go Higher -->
 			<!-- <echo message="${projectLicensing}" /><fail/> -->
@@ -98,7 +103,7 @@
 	
 	<target name="licensing_encode" if="run.encoder">
 		
-		<exec executable="C:\Program Files (x86)\ionCube PHP Encoder 9.0.0\legacy\ioncube_encoder53.exe">
+		<exec executable="C:\Program Files (x86)\ionCube PHP Encoder 9.0.2\ioncube_encoder56.exe">
 		<!-- <exec executable="C:\Program Files (x86)\ionCube PHP Encoder 7.0\ioncube_encoder5.exe">-->
 			<arg value='--preamble-file="C:\xampp\preamble.txt"' />
 			<arg value="${raw}\licensing.php" />
