@@ -5,7 +5,7 @@
 	<macrodef name="dunamis.create_release">
 		
 		<attribute name="releasefile" default="RELEASE-${dunamis.project.VERSION}" />
-		<attribute name="thisrelease" default="releases/@{releasefile}" />
+		<attribute name="thisrelease" default=".buildfiles/releases/@{releasefile}" />
 		
 		<attribute name="destfile" default="RELEASE" />
 		<attribute name="destpath" default="" />
