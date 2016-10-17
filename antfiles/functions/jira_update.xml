@@ -10,7 +10,7 @@
 		
 		<sequential>
 			
-			<exec executable="curl">
+			<exec executable="c:\curl\curl.exe">
 				<arg line="-u @{username}:@{password} -X POST --data '@{versiondata}' -H &quot;Content-Type: application/json&quot; ${jira.SITE}" />
 			</exec>
 			
