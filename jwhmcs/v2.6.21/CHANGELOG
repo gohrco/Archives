@@ -1,0 +1,4 @@
+#  API does not return language or menu items from Joomla in some circumstances
+#  Unable to retrieve language list for options
+#  Correct for tel: and mailto: links being parsed by mechanism
++  Support for WHMCS v7.1
