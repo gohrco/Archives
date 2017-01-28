@@ -1,0 +1,20 @@
+#  Correct refresh redirect issue within installer controllers
+#  Correct issue with incorrect wrapping site being used when logging into WHMCS
+-  Reversion of authentication routine
+~  Update installer ajax/check_db to use PDO instead of mysql
++  Support for Dunamis 2.0
++  Support for PHP 7
+#  WHMCS connections fail with '0' regardless of http status code (ie 403 or 404)
+#  Error thrown in WHMCS connection line 64
+#  Connection helper can't return a library when passed an array
+#  translucent background not loading when logging in or logging out
+#  unable to log user in or out
+#  Integrator 3 is not marking execution point as before
++  Support for WHMCS v7.0
++  Support for WHMCS v7.1
+#  Correct class, method and library loading failures with CI 3.0.3
+#  Correct routing by providing override to core
+#  Remove leftover debug code from upgrade procedure
+#  Correct session handler database for CI3x
+#  Remove old session handler file upon upgrade
+#  Router inclusion in installer
