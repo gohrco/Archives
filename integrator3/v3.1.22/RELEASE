@@ -1,0 +1,5 @@
+maturity=rc
+access=Public
+description=<p>The Integrator 3 package includes the following:</p><ul><li>Integrator 3 application - standalone product</li><li>Connections for:<ul><li>Joomla! 1.5 / 2.5 / 3.x</li><li>Wordpress 3.2+</li><li>Kayako Fusion 4.0+</li><li>WHMCS 6.2+</li></ul></li></ul><p>Note that requirements have changed significantly with this version:</p><ul><li>PHP 5.6+</li><li>WHMCS v6.2+</li></ul><p>Integrator 3.1.20 supports PHP 7 and WHMCS v7.1</p>
+created=2017-01-28
+itemaccess=Integrator3 Active AxsLvl
